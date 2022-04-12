@@ -1,1 +1,1 @@
-# ansible_install_configure_httpd_
+Simple playbook to install and configure HTTPD web server 
